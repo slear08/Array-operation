@@ -7,6 +7,7 @@ public class Main
 		Scanner scan = new Scanner(System.in);    
 		
 		try {
+            
 		    boolean repeater = false;
 		    boolean searchEnable = false;
 		    boolean deleteEnable = false;
